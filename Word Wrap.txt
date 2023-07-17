@@ -1,0 +1,28 @@
+Habilitar quebra de linha automática visual studio: 
+
+Português: 
+
+Claro! Aqui está um guia passo a passo para habilitar a quebra de linha automática no Visual Studio 2022:
+
+1. Abra o Visual Studio 2022.
+2. Vá para o menu "Ferramentas" no topo da janela.
+3. No menu suspenso, selecione "Opções". Isso abrirá a caixa de diálogo Opções.
+4. No painel esquerdo da caixa de diálogo Opções, expanda o nó "Editor de Texto" e selecione a linguagem de programação para a qual deseja habilitar a quebra de linha automática (por exemplo, "C#" ou "Python").
+5. Dentro do nó da linguagem de programação selecionada, expanda o nó "Avançado".
+6. Role para baixo e encontre a opção "Quebrar Palavras" (Word Wrap). 
+7. Marque a caixa ao lado de "Quebrar Palavras" para habilitar a quebra de linha automática.
+8. Opcionalmente, você pode ajustar o valor da "Coluna de Quebra de Palavras" (Word Wrap Column) para especificar a largura máxima desejada das linhas quebradas. Por padrão, é definido como 80 caracteres.
+
+Clique no botão "OK" para salvar as alterações e fechar a caixa de diálogo Opções.
+
+Inglês: 
+
+1. Open Visual Studio 2022.
+2. Go to the "Tools" menu at the top of the window.
+3. From the dropdown menu, select "Options". This will open the Options dialog box.
+4. In the left-hand pane of the Options dialog box, expand the "Text Editor" node and select the programming language you want to enable automatic line wrapping for (e.g., "C#" or "Python").
+5. Within the selected programming language node, expand the "Advanced" node.
+6. Scroll down and find the "Word Wrap" option. Check the box next to "Word Wrap" to enable automatic line wrapping.
+7. Optionally, you can adjust the "Word Wrap Column" value to specify the desired maximum width of the wrapped lines. By default, it's set to 80 characters.
+8. Click the "OK" button to save the changes and close the Options dialog box.
+
